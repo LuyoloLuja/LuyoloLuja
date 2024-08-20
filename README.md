@@ -10,7 +10,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 - 👋 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cape Town.
 - 👀 I’m interested in Software Development freelancing and contributing to open source.
 - :zap: In my free time, I play video games.
