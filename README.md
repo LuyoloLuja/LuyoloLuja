@@ -14,7 +14,9 @@
 - 👋 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cape Town.
 - 👀 I’m interested in Software Development freelancing and contributing to open source.
 - :zap: In my free time, I play video games.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/luyolo-mntuyedwa))
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/luyolo-mntuyedwa">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 
 ---
 
